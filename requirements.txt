@@ -1,8 +1,4 @@
 streamlit
-mlflow
-lightgbm
-scikit-learn
+plotly
 pandas
 numpy
-plotly
-scipy
