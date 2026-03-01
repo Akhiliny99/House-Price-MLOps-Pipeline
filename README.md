@@ -2,7 +2,7 @@ House-Price-MLOps-Pipeline
  
 A production-grade MLOps pipeline and monitoring dashboard for California house price prediction.
 
-Live Demo :
+Live Dashboard Demo : https://house-price-mlops-pipeline-nhukqoihxanizkvya2aflq.streamlit.app/
 
 Features :
 
